@@ -18,7 +18,7 @@ User-Agent Customization: Set a custom User-Agent header for API requests.
 
 **Clone the repository**
 ```
-git clone https://github.com/your-username/nominatim-geocoding-app.git
+git clone https://github.com/Harshittotuka/nominatim-osrm-project.git
 cd nominatim-geocoding-app
 ```
 
